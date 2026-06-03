@@ -86,6 +86,12 @@ Main Quest:
 
 </div>
 
+🐇 listening to...
+<div align="center">
+<a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmkc343ae2eeee56hpl5mhgpre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a></div>
+
 ---
 
 # 🌙 Side Quests
@@ -124,4 +130,3 @@ Thanks for visiting my profile 🌸
 <img width="250" src="https://media.tenor.com/qDEZGcFwVasAAAAC/anime-wave.gif"/>
 
 </div>
-```
