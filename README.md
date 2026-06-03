@@ -1,87 +1,126 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Carolina%20Bueno%20🎮&fontAlign=50&fontAlignY=38&desc=Front-End%20•%20Games%20•%20AI%20•%20UI/UX&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Carolina%20Bueno%20🩷&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=soft%20girl%20developer%20•%20games%20•%20front-end%20•%20ai&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9BD2&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Welcome+Player+One+%E2%9C%A8;%F0%9F%8C%B8+Building+dreams+through+technology;%F0%9F%8E%AE+ADS+Student+%7C+Future+FATEC;%F0%9F%92%BB+Front-End+%E2%80%A2+Games+%E2%80%A2+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FFC7E3&center=true&vCenter=true&width=800&lines=%E2%98%81%EF%B8%8F+welcome+to+my+dreamy+little+universe+%E2%98%81%EF%B8%8F;%F0%9F%8C%B8+soft+girl+studying+technology;%F0%9F%92%BB+building+cute+things+with+code;%F0%9F%8E%AE+games+%2B+coffee+%2B+late+night+coding;%E2%9C%A8+trying+to+turn+dreams+into+reality" />
 
-<img src="https://komarev.com/ghpvc/?username=carolinabmg&label=Mana%20Visitors&color=ff69b4&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=cloudy%20visitors&color=ffb7d5&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌸 Character Profile
+<div align="center">
 
-<img align="right" width="250" src="https://media.tenor.com/LyKUsMZ2QxkAAAAC/anime-computer.gif"/>
+# 🌸 digital diary of a dreamy developer 🌸
+
+<img width="450" src="https://media.tenor.com/7W0d1R9h0QIAAAAC/anime-girl-computer.gif"/>
+
+</div>
+
+---
+
+# ☁️ who am i?
+
+<img align="right" width="220" src="https://media.tenor.com/YKQxk7Jw6wAAAAAC/lofi.gif"/>
 
 ```yaml
-Name: Carolina Bueno Mendonça Gonçalves
-Class: Front-End Mage
-Level: 32
-Guild: ADS Student
-Special Skills:
-  - UI/UX Magic ✨
-  - Database Summoning 🗄️
-  - Creative Organization 🌙
-  - AI Curiosity 🤖
-  - Gamer Spirit 🎮
-Main Quest:
-  - Enter FATEC
-  - Build aesthetic projects
-  - Work remotely
+name: Carolina Bueno Mendonça Gonçalves
+age: 32
+from: Brazil 🇧🇷
+
+currently:
+  - studying ADS
+  - preparing for FATEC
+  - learning front-end
+  - creating aesthetic projects
+  - surviving with coffee ☕
+
+dreams:
+  - remote work 🌎
+  - cozy gamer setup 🎮
+  - beautiful portfolio ✨
+  - calm and happy life ☁️
+
+personality:
+  - organized chaos 🌙
+  - soft-hearted 💗
+  - curious mind 🧠
+  - gamer soul 🎮
 ````
----
-
-🐇 Current Mood
-<div align="center"> <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lofi-girl.gif" width="180"/> </div>
 
 ---
 
-# 🎮 Inventory
+# 🎀 soft girl energy
 
-🖥️ VSCode
-🎨 Canva
-🐍 Python
-🌐 HTML/CSS/JS
-🗄️ MySQL
-☁️ GitHub
-🎧 Lofi playlists
-🌸 Digital planners
-
----
-
-# ⚔️ Current Missions
-
-* 🌷 Study Algorithms & Logic
-* 💻 Improve Front-End skills
-* 🧠 Learn Artificial Intelligence
-* 📚 Practice English
-* 🏛️ Prepare for FATEC
-* 🎮 Create game-inspired projects
+🌸 pink interfaces
+☁️ calm playlists
+🎧 lofi music
+🖥️ cute setups
+💡 cozy lights
+📚 organized study sessions
+🎮 peaceful gaming nights
+✨ aesthetic productivity
 
 ---
 
-# 🌌 Skill Tree
+# 💻 tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,mysql,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-# ☁️ Daily Buffs
+# 🌷 currently learning
 
-✨ Coffee + music
-✨ Cozy study setup
-✨ Organized routine
-✨ Cute digital aesthetics
-✨ Gamer RGB energy
+| 🌸 area   | ☁️ focus                |
+| --------- | ----------------------- |
+| front-end | html • css • javascript |
+| databases | mysql                   |
+| AI        | automation & tools      |
+| UI/UX     | aesthetic interfaces    |
+| english   | communication           |
+| ADS       | logic & projects        |
 
 ---
 
-# 🎴 Player Stats
+# ☕ daily routine vibes
+
+```txt id="soft-routine"
+☀️ wake up slowly
+🎧 put on music
+💻 code a little
+☕ drink coffee
+📚 study ADS
+🌸 organize ideas
+🎮 play games
+🌙 overthink at night
+```
+
+---
+
+# 🎮 favorite things
+
+* Civilization VII
+* cozy & indie games
+* tumblr aesthetics
+* pinterest inspiration
+* anime gifs
+* VTubers
+* cute keyboards
+* RGB gamer setups
+* cafés
+* rain sounds for studying
+
+---
+
+# 🌙 github garden
 
 <div align="center">
 
@@ -89,6 +128,8 @@ Main Quest:
 <img height="180em" src="https://streak-stats.demolab.com?user=carolinabmg&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
 
 🐇 listening to...
 <div align="center">
@@ -98,39 +139,45 @@ Main Quest:
 
 ---
 
-# 🌙 Side Quests
-
-🎮 Civilization VII
-🌸 Tumblr aesthetics
-☁️ Cozy gamer setups
-🤖 AI tools
-🎨 UI concepts
-📖 Productivity systems
 
 ---
 
-# 💖 Achievements Locked In
+# ☁️ comfort zone
 
-🏆 Organized even in chaos
-🏆 Persistent learner
-🏆 Creative problem solver
-🏆 Future tech professional
-🏆 Dream builder
+<div align="center">
+
+<img width="500" src="https://media.tenor.com/DimzPZMypFcAAAAd/lofi-girl.gif"/>
+
+</div>
 
 ---
 
-# 🌸 Dialogue Box
+# 💌 tiny thoughts
 
-> “Every line of code is another step toward the life I want to build.”
+> “you do not need to rush your story.”
+
+> “softness and intelligence can exist together.”
+
+> “some dreams take time, and that's okay.”
+
+---
+
+# 🌸 achievements
+
+✨ future developer
+✨ organized even in chaos
+✨ creative thinker
+✨ aesthetic project creator
+✨ dream chaser
 
 ---
 
 <div align="center">
 
-## ✨ SAVE POINT REACHED ✨
+# ☁️ thank you for being here ☁️
 
-Thanks for visiting my profile 🌸
+🩷 may your future self be proud of you 🩷
 
-<img width="250" src="https://media.tenor.com/qDEZGcFwVasAAAAC/anime-wave.gif"/>
+<img width="240" src="https://media.tenor.com/n7dbG8Q8z0MAAAAC/anime-girl-wave.gif"/>
 
 </div>
