@@ -30,6 +30,10 @@ Main Quest:
   - Build aesthetic projects
   - Work remotely
 ````
+---
+
+🐇 Current Mood
+<div align="center"> <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lofi-girl.gif" width="180"/> </div>
 
 ---
 
